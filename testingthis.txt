@@ -1,6 +1,4 @@
-# How does it work?
 
-Enter Text in Markdown format.
 
 HOwdy this is just test via prose.io
 
